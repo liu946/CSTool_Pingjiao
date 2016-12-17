@@ -29,8 +29,8 @@ function input (indf,choose) {
 	})
 };
 // 学生评教，第一页
-check ([28,35,47,51]);
-input(".inp6",[0]);
+check ([28,32,47,51]);
+input(".inp6",[100]);
 
 // 第二页
 check ([2,6]);
